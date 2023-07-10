@@ -11,3 +11,6 @@ C:\Users\louis\source\repos\DDos_Ratus\DDos_Ratus\obj\Debug\DDos_Ratus.csproj.Co
 C:\Users\louis\source\repos\DDos_Ratus\DDos_Ratus\obj\Debug\DDos_Ratus.exe
 C:\Users\louis\source\repos\DDos_Ratus\DDos_Ratus\obj\Debug\DDos_Ratus.pdb
 C:\Users\louis\source\repos\DDos_Ratus\DDos_Ratus\obj\Debug\DDos_Ratus.nmap_cmd.resources
+C:\Users\louis\source\repos\DDos_Ratus\DDos_Ratus\bin\Debug\Newtonsoft.Json.dll
+C:\Users\louis\source\repos\DDos_Ratus\DDos_Ratus\bin\Debug\Newtonsoft.Json.xml
+C:\Users\louis\source\repos\DDos_Ratus\DDos_Ratus\obj\Debug\DDos_Ratus.csproj.CopyComplete

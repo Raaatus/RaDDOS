@@ -15,7 +15,7 @@ namespace DDos_Ratus
         private string pt = "-p";
         private string sv = "";
         private string sc = "";
-        private string tn = "T0";
+        private string tn = "-T0";
 
         public nmap_cmd()
         {
@@ -36,12 +36,12 @@ namespace DDos_Ratus
         {
             if (trackBar1.Value != 0)
             {
-                tn = "T"+trackBar1.Value;
+                tn = "-T"+trackBar1.Value;
                 updTextBox1();
             }
             else
             {
-                tn = "T0";
+                tn = "-T0";
                 updTextBox1();
             }
         }
@@ -251,7 +251,7 @@ namespace DDos_Ratus
             pt = "-p-";
             sc = "";
             sv = "-sV";
-            tn = "T4";
+            tn = "-T4";
             updTextBox1();
         }
     }
